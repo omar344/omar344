@@ -29,6 +29,11 @@ Want to know more about me? [Check out my linkedin.](https://www.linkedin.com/in
 </a>
 
 <br>
+<a href="https://github.com/omar344/Hospital_Management_System_v1">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=omar344&repo=Hospital_Management_System_v1&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
 
 <a href="https://github.com/omar344/ecommerce">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=omar344&repo=ecommerce&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
