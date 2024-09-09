@@ -41,7 +41,7 @@ Want to know more about me? [Check out my linkedin.](https://www.linkedin.com/in
 </a>
 <br>
 <a href="https://github.com/omar344/Startup-Expansion">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=omar344&repo=ecommerce&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=omar344&repo=Startup-Expansion&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 <br>
 <br>
