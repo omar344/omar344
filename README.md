@@ -42,7 +42,6 @@ Want to know more about me? [Check out my linkedin.](https://www.linkedin.com/in
 <br>
 <a href="https://github.com/omar344/Startup-Expansion">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=omar344&repo=Startup-Expansion&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-  This dashboard provides a comprehensive visualization of sales and marketing metrics to assist with decision-making for a startup's expansion.
 </a>
 <br>
 <br>
