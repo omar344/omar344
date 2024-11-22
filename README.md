@@ -1,7 +1,8 @@
 ![Omar Abadi GitHub Banner](./github-header-image.png)
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/omar-abadi-91123a239/)
-[![Codeforces Badge](https://img.shields.io/badge/Codeforces-Profile-informational?style=flat&logo=codeforces&logoColor=white&color=1f8acb)](https://codeforces.com/profile/3mar_Ismail)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/omar-abadi-91123a239/)  
+[![Codeforces Badge](https://img.shields.io/badge/Codeforces-Profile-informational?style=flat&logo=codeforces&logoColor=white&color=1f8acb)](https://codeforces.com/profile/3mar_Ismail)  
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Website-informational?style=flat&logo=vercel&logoColor=white&color=black)](https://omar-portfolio-bice.vercel.app/)
 
 
 
