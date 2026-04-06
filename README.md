@@ -35,32 +35,37 @@ I craft clean APIs, design solid architectures, and enjoy turning complex proble
 
 <br>
 
+### 🤖 AI & Machine Learning
+
 <a href="https://github.com/omar344/multi-model-rag-app">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=omar344&repo=multi-model-rag-app&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-
-<br>
-
-<a href="https://github.com/omar344/JobQuest">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=omar344&repo=JobQuest&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
 <a href="https://github.com/omar344/ai-whatsapp-agent-saas">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=omar344&repo=ai-whatsapp-agent-saas&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
+<br>
 
+### 🌐 Full-Stack & Back-End Apps
+
+<a href="https://github.com/omar344/JobQuest">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=omar344&repo=JobQuest&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
 <a href="https://github.com/omar344/Mobile_Accessories_Ecommerce">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=omar344&repo=Mobile_Accessories_Ecommerce&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
+<br>
+
+### 📊 Data & Engineering
 
 <a href="https://github.com/omar344/Startup-Expansion">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=omar344&repo=Startup-Expansion&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+<a href="https://github.com/omar344/Design-Patterns">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=omar344&repo=Design-Patterns&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
