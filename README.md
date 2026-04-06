@@ -59,18 +59,6 @@ I craft clean APIs, design solid architectures, and enjoy turning complex proble
 <br>
 <br>
 
-### 📊 Data & Engineering
-
-<a href="https://github.com/omar344/Startup-Expansion">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=omar344&repo=Startup-Expansion&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-<a href="https://github.com/omar344/Design-Patterns">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=omar344&repo=Design-Patterns&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-<br>
-
 ## &#x1f4c8; GitHub Stats
 
 <br>
