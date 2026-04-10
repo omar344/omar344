@@ -8,17 +8,17 @@
 
 Hey there 👋 I'm **Omar Abadi** — a passionate software engineer from Egypt 🇪🇬 who loves building scalable, impactful back-end systems and exploring the intersection of AI and software engineering.
 
-I craft clean APIs, design solid architectures, and enjoy turning complex problems into elegant solutions. Whether it's an ASP.NET microservice, a RAG-powered AI pipeline, or a full-stack freelancing platform — I'm always shipping.
+I craft clean APIs, design solid architectures, and enjoy turning complex problems into elegant solutions. Whether it's a RAG-powered AI pipeline, or a full-stack freelancing platform — I'm always shipping.
 
 ---
 
 ## 🙋‍♂️ About Me
 
 - 🎓 Computer Science graduate — built a **Multi-Model RAG Application** as my graduation project
-- 💼 Back-end focused engineer with experience in **.NET, Python (FastAPI), and Node.js**
+- 💼 Back-end focused engineer with experience in **.NET, Python (FastAPI)**
 - 🤖 Interested in **AI/ML integration**, LLMs, and building production-ready intelligent systems
 - 🧠 Consistent competitive programmer on [Codeforces](https://codeforces.com/profile/3mar_Ismail)
-- 🌱 Currently deepening knowledge in **system design**, **design patterns**, and **distributed systems**
+- 🌱 Currently deepening knowledge in **system design** and **design patterns**
 - ⚡ Fun fact: I enjoy building SaaS products and automating things that slow people down
 
 ---
