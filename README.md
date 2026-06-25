@@ -23,30 +23,17 @@ I craft clean APIs, design solid architectures, and enjoy turning complex proble
 
 ---
 
-## 🚀 What I'm Currently Building
+##  What I'm Currently Building
 
-- 🤖 **[AI WhatsApp Agent SaaS](https://github.com/omar344/ai-whatsapp-agent-saas)** — An ASP.NET-based SaaS platform that brings AI-powered agents to WhatsApp
-- 📚 **[Multi-Model RAG App](https://github.com/omar344/multi-model-rag-app)** — A FastAPI application supporting multiple LLM providers (OpenAI, Groq, Voyage AI) with RAG capabilities
-- 🔧 **[Design Patterns in C#](https://github.com/omar344/Design-Patterns)** — A hands-on reference implementation of classic design patterns
+- **[AI WhatsApp Agent SaaS](https://github.com/omar344/ai-whatsapp-agent-saas)** — An ASP.NET-based SaaS platform that brings AI-powered agents to WhatsApp
+- **[Multi-Model RAG App](https://github.com/omar344/multi-model-rag-app)** — A FastAPI application supporting multiple LLM providers (OpenAI, Groq, Voyage AI) with RAG capabilities
+- **[Design Patterns in C#](https://github.com/omar344/Design-Patterns)** — A hands-on reference implementation of classic design patterns
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 <br>
-
-### 🤖 AI & Machine Learning
-
-<a href="https://github.com/omar344/multi-model-rag-app">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=omar344&repo=multi-model-rag-app&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-<a href="https://github.com/omar344/ai-whatsapp-agent-saas">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=omar344&repo=ai-whatsapp-agent-saas&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-<br>
-
 ### 🌐 Full-Stack & Back-End Apps
 
 <a href="https://github.com/omar344/JobQuest">
@@ -122,7 +109,7 @@ I craft clean APIs, design solid architectures, and enjoy turning complex proble
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 I'm always open to interesting conversations, collaborations, and new opportunities.
 
