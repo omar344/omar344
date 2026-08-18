@@ -1,33 +1,46 @@
-![Omar Abadi GitHub Banner](./github-header-image.png)
+<div align="center">
+  <img src="./github-header-image.png" alt="Omar Abadi GitHub Banner" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=omar344&color=4AB197&style=flat&label=Profile+Views" alt="Profile Views" />
+</div>
+<br>
+
+<div align="center">
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/omar-abadi-91123a239/)
 [![Codeforces Badge](https://img.shields.io/badge/Codeforces-Profile-informational?style=flat&logo=codeforces&logoColor=white&color=1f8acb)](https://codeforces.com/profile/3mar_Ismail)
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-Website-informational?style=flat&logo=vercel&logoColor=white&color=black)](https://omar-portfolio-bice.vercel.app/)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=4AB197&center=true&vCenter=true&width=435&lines=Back-end+Software+Engineer;AI+%26+ML+Enthusiast;Competitive+Programmer;Always+Building+and+Shipping)](https://git.io/typing-svg)
+
+</div>
+
 ---
 
-Hey there 👋 I'm **Omar Abadi** — a passionate software engineer from Egypt 🇪🇬 who loves building scalable, impactful back-end systems and exploring the intersection of AI and software engineering.
+Hey there 👋 I'm **Omar Abadi** — a passionate **Back-end Software Engineer** from Egypt 🇪🇬 specializing in building highly scalable systems and intelligent AI integrations.
 
-I craft clean APIs, design solid architectures, and enjoy turning complex problems into elegant solutions. Whether it's a RAG-powered AI pipeline, or a full-stack freelancing platform — I'm always shipping.
+I architect robust APIs, design resilient cloud-ready infrastructures, and thrive on transforming complex business requirements into elegant, production-ready solutions. Whether I'm engineering a multi-model RAG pipeline or architecting a complete full-stack platform, my focus is always on writing clean code and shipping real value. 🚀
 
 ---
 
 ## 🙋‍♂️ About Me
 
-- 🎓 Computer Science graduate — built a **Multi-Model RAG Application** as my graduation project
-- 💼 Back-end focused engineer with experience in **.NET, Python (FastAPI)**
-- 🤖 Interested in **AI/ML integration**, LLMs, and building production-ready intelligent systems
-- 🧠 Consistent competitive programmer on [Codeforces](https://codeforces.com/profile/3mar_Ismail)
-- 🌱 Currently deepening knowledge in **system design** and **design patterns**
-- ⚡ Fun fact: I enjoy building SaaS products and automating things that slow people down
+- 🎓 **Computer Science Graduate**: Graduated with a capstone project focused on building a scalable **Multi-Model RAG Application**.
+- 💼 **Back-end Architect**: Extensive experience crafting fast, secure, and resilient backend services using **.NET (C#)** and **Python (FastAPI)**.
+- 🤖 **AI Integration Specialist**: Deeply passionate about integrating **LLMs**, Vector Databases, and machine learning pipelines into production web applications.
+- 🧠 **Algorithms & Problem Solving**: Active competitive programmer conquering complex algorithms on [Codeforces](https://codeforces.com/profile/3mar_Ismail).
+- 🌱 **Continuous Learner**: Currently mastering advanced **System Architecture**, distributed systems, and modern **Design Patterns**.
+- ⚡ **Fun Fact**: I have a knack for identifying bottlenecks—I build SaaS tools specifically to automate and eliminate repetitive work!
 
 ---
 
 ##  What I'm Currently Building
 
-- **[AI WhatsApp Agent SaaS](https://github.com/omar344/ai-whatsapp-agent-saas)** — An ASP.NET-based SaaS platform that brings AI-powered agents to WhatsApp
-- **[Multi-Model RAG App](https://github.com/omar344/multi-model-rag-app)** — A FastAPI application supporting multiple LLM providers (OpenAI, Groq, Voyage AI) with RAG capabilities
-- **[Design Patterns in C#](https://github.com/omar344/Design-Patterns)** — A hands-on reference implementation of classic design patterns
+- **[AI WhatsApp Agent SaaS](https://github.com/omar344/ai-whatsapp-agent-saas)** — A robust multi-tenant ASP.NET Core platform injecting conversational AI agents directly into WhatsApp to automate and scale customer interactions.
+- **[Multi-Model RAG App](https://github.com/omar344/multi-model-rag-app)** — A high-performance FastAPI back-end that abstracts and unifies multiple LLM providers (OpenAI, Groq, Voyage AI) with advanced Retrieval-Augmented Generation capabilities.
+- **[Design Patterns in C#](https://github.com/omar344/Design-Patterns)** — A comprehensive code repository demonstrating practical, enterprise-grade implementations of the classic GoF design patterns in modern C#.
 
 ---
 
@@ -115,5 +128,19 @@ I'm always open to interesting conversations, collaborations, and new opportunit
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Omar_Abadi-0D76A8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-abadi-91123a239/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-omar--portfolio-black?style=for-the-badge&logo=vercel&logoColor=white)](https://omar-portfolio-bice.vercel.app/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-3mar__Ismail-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/3mar_Ismail)
+
+<br>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omar344/omar344/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/omar344/omar344/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/omar344/omar344/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 <br>
